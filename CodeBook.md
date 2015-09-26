@@ -6,6 +6,7 @@ activity =
 5 STANDING
 6 LAYING
 
+
 id = 1 to 30
 
 The features selected for this database come from the UCI HAR dataset. Their values correspond to the average of the
